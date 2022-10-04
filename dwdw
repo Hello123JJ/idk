@@ -15,5 +15,5 @@ elseif PlaceId == 6516141723 then --Doors
 elseif PlaceId == 286090429 then --Arsenal
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Hello123JJ/idk/main/ar"))()
 elseif PlaceId == 292439477 then --Phantom Forces
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/VoidMasterX/strawhook/main/script.lua", true))()
+    loadstring(syn.request({Url = "https://pastebin.com/raw/ZWb9SYv3", Method = "GET"}).Body)()
 end
