@@ -12,5 +12,8 @@ elseif PlaceId == 914010731 then --Ro-Ghoul
     loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/Ro-Ghoul")()
 elseif PlaceId == 6516141723 then --Doors
     loadstring(game:HttpGet("https://pastebin.com/raw/6kfed0tP"))()
---elseif PlaceId == 6516141723 then
+elseif PlaceId == 286090429 then --Arsenal
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Hello123JJ/idk/main/ar"))()
+elseif PlaceId == 292439477 then --Phantom Forces
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/VoidMasterX/strawhook/main/script.lua", true))()
 end
